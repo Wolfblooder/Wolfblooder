@@ -7,7 +7,7 @@ Programmer & Web Developer
 I've been learning to code since 2014 and started pursuing a career in Web Development in 2020. I started out with Java, but now i am professionally working with JavaScript, PHP, HTML and CSS most of the time.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [simon.sauerbier.business@gmail.com](simon.sauerbier.business@gmail.com)
+* ✉️  You can contact me at <a href="mailto:simon.sauerbier.business@gmail.com">simon.sauerbier.business@gmail.com</a>
 * 🧠  I'm learning Python
 
 ### Skills
