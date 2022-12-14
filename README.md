@@ -8,7 +8,7 @@ I've been learning to code since 2014 and started pursuing a career in Web Devel
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at <a href="mailto:simon.sauerbier.business@gmail.com">simon.sauerbier.business@gmail.com</a>
-* 🧠  I'm learning Python
+* 🧠  I'm currently learning Python
 
 ### Skills
 
